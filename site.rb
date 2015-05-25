@@ -5,6 +5,6 @@ get '/' do
   erb :index
 end
 
-get '/italian' do
-  "Ciao!"
+get '/read_more' do
+ <a href="https://en.wikipedia.org/wiki/Karl"> A link about me! </a>
 end
