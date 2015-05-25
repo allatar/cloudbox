@@ -12,7 +12,7 @@
   width: 350px;
 }
 html {
-  background: "rivermoss.jpg" no-repeat center fixed
+  background: ("rivermoss.jpg") no-repeat center fixed
     -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
