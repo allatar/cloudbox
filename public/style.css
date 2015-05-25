@@ -5,9 +5,16 @@
   text-align: center;
 }
 .profile h1 {
-  font-size: 16px;
+  font-size: 34px;
   color: blue;
 }
 .profile img {
-  width: 100px;
+  width: 350px;
+}
+html {
+  background: "rivermoss.jpg" no-repeat center fixed
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
