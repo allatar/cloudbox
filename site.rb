@@ -6,5 +6,5 @@ get '/' do
 end
 
 get '/read_more' do
- <a href="https://en.wikipedia.org/wiki/Karl"> A link about me! </a>
+  "Hi! I'm Karl."
 end
