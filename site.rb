@@ -8,5 +8,5 @@ get '/' do
 end
 
 get '/read_more' do
-  "Hi! I'm Karl."
+  erb :read_more
 end
