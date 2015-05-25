@@ -4,3 +4,10 @@
   margin: 10px;
   text-align: center;
 }
+.profile h1 {
+  font-size: 16px;
+  color: blue;
+}
+.profile img {
+  width: 100px;
+}
